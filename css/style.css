@@ -19,6 +19,12 @@ p {
   color: #26a69a;
 }
 
+.reponsive-image {
+ width:100%;
+ max-width:400px;
+ height:auto;
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
